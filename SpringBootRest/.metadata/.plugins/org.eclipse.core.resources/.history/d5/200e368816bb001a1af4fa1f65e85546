@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package services;
+
+/**
+ * @author jaideepvish
+ *
+ */
+public interface CustomerService {
+
+}

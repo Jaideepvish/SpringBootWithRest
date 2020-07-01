@@ -1,0 +1,5 @@
+package com.jaiworld.springboomvcrest.controllers;
+
+public class CustomerController {
+
+}

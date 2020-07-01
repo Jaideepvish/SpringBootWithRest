@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package services;
+
+import java.util.List;
+
+import domain.Customer;
+
+/**
+ * @author jaideepvish
+ *
+ */
+public class CustomerServiceImpl implements CustomerService {
+
+	@Override
+	public Customer findCustomerById(long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Customer> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

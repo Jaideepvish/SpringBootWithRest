@@ -1,0 +1,5 @@
+package com.jaiworld.springboomvcrest.domian;
+
+public class Customer {
+
+}

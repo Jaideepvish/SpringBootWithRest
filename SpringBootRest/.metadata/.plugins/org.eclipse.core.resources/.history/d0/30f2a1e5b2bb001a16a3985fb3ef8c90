@@ -1,0 +1,20 @@
+package com.jaiworld.springboomvcrest.services;
+
+import java.util.List;
+
+import com.jaiworld.springboomvcrest.domian.Customer;
+
+
+
+/**
+ * @author jaideepvish
+ *
+ */
+public interface CustomerService {
+	
+	Customer findCustomerById(long id);
+	List<Customer> findAll();
+	Customer saveCustomer(Customer customer);
+	deleteCustomerById(long id);
+
+}
